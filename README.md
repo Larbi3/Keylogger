@@ -1,6 +1,6 @@
 # Keylogger
 
-In this lab, the goal was to gain a tactical understanding of what a keylogger is and the ways it can be configured for efficient and effective usage. At its core, the biggest take away from this lab is to understand how software like keyloggers are able to record typed keystrokes and why it can be considered a dangerous tool. Below is a list on some way to go about configuring and setting up the logger for educational purposes.
+The purpose of this lab is to gain a tactile understanding of what a keylogger is and the ways it can be configured for efficient and effective usage. At its core, the biggest take away from this lab is to understand how software like keyloggers are able to record typed keystrokes and why it can be considered a dangerous tool -especially when used as spyware. Below is a list on ways to go about configuring, setting up, and studying the logger for educational purposes.
 
 As stated, all of the information provided is intended for educational purposes with no malicious intents. Special thanks goes to Josh Madakor for creating this lab and code.   
 
@@ -10,7 +10,7 @@ As stated, all of the information provided is intended for educational purposes 
 - During installation, select ".NET Desktop Environment."
 
 **2. Download Keylogger Source Code:**
-- Go to: 
+- Go to: [Keylogger w/ email]()
 - Extract the downloaded ZIP file to a folder on your desktop.
 
 **3. Open and Modify the Code:**
