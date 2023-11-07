@@ -10,7 +10,7 @@ As stated, all of the information provided is intended for educational purposes 
 - During installation, select ".NET Desktop Environment."
 
 **2. Download Keylogger Source Code:**
-- Go to: [Keylogger w/ email]()
+- Go to: [Keylogger w/ email](https://github.com/Larbi3/Keylogger/tree/main/Key-Logger-With-Email)
 - Extract the downloaded ZIP file to a folder on your desktop.
 
 **3. Open and Modify the Code:**
@@ -34,7 +34,7 @@ As stated, all of the information provided is intended for educational purposes 
 - To run the keylogger without displaying the console window, change the output type to "Windows Application":
 - Right-click on the project, go to "Properties."
 - Under "Application," change the "Output Type" to "Windows Application."
-- Rebuild the project and run it again.
+- Rebuild the project and run it again through clean solution under the build tab. 
 
 **7. Distribute the Executable (Optional):**
 
